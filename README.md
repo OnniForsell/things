@@ -1,2 +1,1 @@
-# js-harjotukset
-Javascript kotiläksyjä
+Empty repo (for now)
